@@ -1,0 +1,16 @@
+{
+  "name": "shreetech-crm-server",
+  "version": "1.0.0",
+  "description": "ShreeTech Solutions CRM - Express API Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
