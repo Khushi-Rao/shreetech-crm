@@ -35,7 +35,7 @@ shreetech-crm/
 └── server/     # Node.js + Express backend
 
 ## Status
-🚧 Currently building — Day 1 of 28
+🚧 Currently building — Day 6 of 28
 
 ## Author
 Khushi Rao
